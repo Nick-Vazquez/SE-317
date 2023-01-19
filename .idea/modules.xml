@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/1/1.iml" filepath="$PROJECT_DIR$/iloveyouboss/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/10/10.iml" filepath="$PROJECT_DIR$/iloveyouboss/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/11/11.iml" filepath="$PROJECT_DIR$/iloveyouboss/11/11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/12/12.iml" filepath="$PROJECT_DIR$/iloveyouboss/12/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/13/13.iml" filepath="$PROJECT_DIR$/iloveyouboss/13/13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/14/14.iml" filepath="$PROJECT_DIR$/iloveyouboss/14/14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/15/15.iml" filepath="$PROJECT_DIR$/iloveyouboss/15/15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/16/16.iml" filepath="$PROJECT_DIR$/iloveyouboss/16/16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/16-branch-persistence/16-branch-persistence.iml" filepath="$PROJECT_DIR$/iloveyouboss/16-branch-persistence/16-branch-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/16-branch-persistence-3/16-branch-persistence-3.iml" filepath="$PROJECT_DIR$/iloveyouboss/16-branch-persistence-3/16-branch-persistence-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/16-branch-persistence-redesign/16-branch-persistence-redesign.iml" filepath="$PROJECT_DIR$/iloveyouboss/16-branch-persistence-redesign/16-branch-persistence-redesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/17/17.iml" filepath="$PROJECT_DIR$/iloveyouboss/17/17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/18/18.iml" filepath="$PROJECT_DIR$/iloveyouboss/18/18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/19/19.iml" filepath="$PROJECT_DIR$/iloveyouboss/19/19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/2/2.iml" filepath="$PROJECT_DIR$/iloveyouboss/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/20/20.iml" filepath="$PROJECT_DIR$/iloveyouboss/20/20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/20-misadventure/20-misadventure.iml" filepath="$PROJECT_DIR$/iloveyouboss/20-misadventure/20-misadventure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/21/21.iml" filepath="$PROJECT_DIR$/iloveyouboss/21/21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/22/22.iml" filepath="$PROJECT_DIR$/iloveyouboss/22/22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/23/23.iml" filepath="$PROJECT_DIR$/iloveyouboss/23/23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/24/24.iml" filepath="$PROJECT_DIR$/iloveyouboss/24/24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/25/25.iml" filepath="$PROJECT_DIR$/iloveyouboss/25/25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/26/26.iml" filepath="$PROJECT_DIR$/iloveyouboss/26/26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/3/3.iml" filepath="$PROJECT_DIR$/iloveyouboss/3/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/4/4.iml" filepath="$PROJECT_DIR$/iloveyouboss/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/5/5.iml" filepath="$PROJECT_DIR$/iloveyouboss/5/5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/6/6.iml" filepath="$PROJECT_DIR$/iloveyouboss/6/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/7/7.iml" filepath="$PROJECT_DIR$/iloveyouboss/7/7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/8/8.iml" filepath="$PROJECT_DIR$/iloveyouboss/8/8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/9/9.iml" filepath="$PROJECT_DIR$/iloveyouboss/9/9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE-317.iml" filepath="$PROJECT_DIR$/SE-317.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/big-1/big-1.iml" filepath="$PROJECT_DIR$/iloveyouboss/big-1/big-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/big-2/big-2.iml" filepath="$PROJECT_DIR$/iloveyouboss/big-2/big-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/big-3/big-3.iml" filepath="$PROJECT_DIR$/iloveyouboss/big-3/big-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/big-4/big-4.iml" filepath="$PROJECT_DIR$/iloveyouboss/big-4/big-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/big-5/big-5.iml" filepath="$PROJECT_DIR$/iloveyouboss/big-5/big-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/big-6/big-6.iml" filepath="$PROJECT_DIR$/iloveyouboss/big-6/big-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/mock-1/mock-1.iml" filepath="$PROJECT_DIR$/iloveyouboss/mock-1/mock-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/mock-2/mock-2.iml" filepath="$PROJECT_DIR$/iloveyouboss/mock-2/mock-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/mock-3/mock-3.iml" filepath="$PROJECT_DIR$/iloveyouboss/mock-3/mock-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/mock-4/mock-41.iml" filepath="$PROJECT_DIR$/iloveyouboss/mock-4/mock-41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/mock-5/mock-5.iml" filepath="$PROJECT_DIR$/iloveyouboss/mock-5/mock-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-1/tdd-1.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-1/tdd-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-10/tdd-10.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-10/tdd-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-11/tdd-11.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-11/tdd-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-12/tdd-12.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-12/tdd-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-13/tdd-13.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-13/tdd-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-14/tdd-14.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-14/tdd-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-15/tdd-15.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-15/tdd-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-2/tdd-2.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-2/tdd-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-3/tdd-3.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-3/tdd-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-4/tdd-4.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-4/tdd-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-5/tdd-5.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-5/tdd-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-6/tdd-6.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-6/tdd-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-7/tdd-7.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-7/tdd-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-8/tdd-8.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-8/tdd-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/tdd-9/tdd-9.iml" filepath="$PROJECT_DIR$/iloveyouboss/tdd-9/tdd-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-1/test-1.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-1/test-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-10/test-10.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-10/test-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-2/test-2.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-2/test-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-3/test-3.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-3/test-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-4/test-4.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-4/test-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-5/test-5.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-5/test-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-6/test-6.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-6/test-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-7/test-7.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-7/test-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-8/test-8.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-8/test-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/test-9/test-9.iml" filepath="$PROJECT_DIR$/iloveyouboss/test-9/test-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/thread-1/thread-1.iml" filepath="$PROJECT_DIR$/iloveyouboss/thread-1/thread-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/thread-2/thread-2.iml" filepath="$PROJECT_DIR$/iloveyouboss/thread-2/thread-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/thread-3/thread-3.iml" filepath="$PROJECT_DIR$/iloveyouboss/thread-3/thread-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iloveyouboss/thread-4/thread-4.iml" filepath="$PROJECT_DIR$/iloveyouboss/thread-4/thread-4.iml" />
+    </modules>
+  </component>
+</project>
