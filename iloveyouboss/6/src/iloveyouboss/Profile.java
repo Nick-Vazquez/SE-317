@@ -28,7 +28,7 @@ public class Profile {
    }
    
    public boolean matches(Criteria criteria) { 
-      score = 0;
+      this.score = 0;
       
       boolean kill = false;
       boolean anyMatches = false; 

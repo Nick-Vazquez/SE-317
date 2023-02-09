@@ -10,15 +10,32 @@ package iloveyouboss;
 
 import org.junit.*;
 
+import static org.junit.Assert.*;
+
 public class ProfileTest {
 
+   private Profile profile;
+   private Question question;
+   private  Answer profileAnswer;
+   private Criteria criteria;
+   private Answer criteriaAnswer;
+   @Before
+   public void setUp() {
+      this.profile = new Profile("Bull Hockey, Inc.");
+      this.question = new BooleanQuestion(1, "Got bonuses?");
+      this.profileAnswer = new Answer(question, Bool.TRUE);
+
+      this.criteria = new Criteria();
+      this.criteriaAnswer = new Answer(question, Bool.TRUE);
+   }
    @Test
    public void test() {
-      Profile profile = new Profile("Bull Hockey, Inc.");
-      Question question = new BooleanQuestion(1, "Got bonuses?");
-      Criteria criteria = new Criteria();
-      Answer criteriaAnswer = new Answer(question, Bool.TRUE);
       Criterion criterion = new Criterion(criteriaAnswer, Weight.MustMatch);
-      criteria.add(criterion);
+
+      this.profile.add(profileAnswer);
+      this.criteria.add(criterion);
+
+      boolean matches = this.profile.matches(criteria);
+      assertTrue(matches);
    }
 }

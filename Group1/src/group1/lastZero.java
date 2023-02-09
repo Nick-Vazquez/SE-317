@@ -16,6 +16,7 @@ public class lastZero {
 	   */
 	   public static int lastZero (int[] x)
 	   {
+		   // changed this to iterate from back to front
 	      for (int i = 0; i < x.length; i++)
 	      {
 	         if (x[i] == 0)

@@ -25,14 +25,17 @@ public class FindLastTest {
         int[] arr1 = {2, 3, 5};
         int[] arr2 = {2, 2, 3, 9};
         int[] arr3 = {4, 3, 5, 4, 1};
+        int[] arr4 = {4, 3, 5, 5, 1};
 
-        TestPair pair1 = new TestPair(arr1, 3, 1);
+        TestPair pair1 = new TestPair(arr1, 2, 0);
         TestPair pair2 = new TestPair(arr2, 2, 1);
         TestPair pair3 = new TestPair(arr3, 4, 3);
+        TestPair pair4 = new TestPair(arr4, 4, 1);
         testCases = new ArrayList<>();
         testCases.add(pair1);
         testCases.add(pair2);
         testCases.add(pair3);
+        testCases.add(pair4);
     }
 
 
