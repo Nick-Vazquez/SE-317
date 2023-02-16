@@ -35,4 +35,12 @@ public class BigDecimalTest {
 
      assertEquals(tree, hash);  
   }
+
+  @Test public void consistentSets() {
+      BigDecimal z = new BigDecimal("1.00");
+      tree.add(x); tree.add(z);
+      hash.add(x); hash.add(z);
+      assertEquals(hash, tree);
+      assertEquals(tree, hash);
+  }
 } 

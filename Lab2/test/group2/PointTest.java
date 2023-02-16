@@ -19,4 +19,12 @@ public class PointTest {
          assertTrue(cp1.equals(cp2));
       }
    }
+
+   @Test public void realTransitivity() {
+      if (cp1.equals(p) && p.equals(cp2)) {
+         assertTrue(cp1.equals(cp2));
+      } else {
+         fail();
+      }
+   }
 }

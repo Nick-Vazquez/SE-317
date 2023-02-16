@@ -6,17 +6,26 @@
 package group2;
 
 import static org.junit.Assert.*;
+
+import com.sun.javafx.scene.control.behavior.BehaviorBase;
 import org.junit.*;
 import java.util.*;
 
 public class CloneTest 
 {
    @Test public void cloneSuper() {
-      Vehicle v = new Vehicle(4); 
+      Vehicle v = new Vehicle(4);
       Vehicle w = (Vehicle) v.clone();
       assertFalse(v == w);
       assertEquals(v.getClass(), w.getClass());
       assertTrue(v.equals(w));
    }
 
+   @Test public void cloneTruck() {
+      Vehicle v = new Truck(4);
+      Vehicle w = (Vehicle) v.clone();
+      assertFalse(v == w);
+      assertEquals(v.getClass(), w.getClass());
+      assertTrue(v.equals(w));
+   }
 }
