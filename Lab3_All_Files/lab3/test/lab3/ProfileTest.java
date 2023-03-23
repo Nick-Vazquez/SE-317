@@ -8,7 +8,7 @@ import org.junit.Test;
 public class ProfileTest {
 	private Profile profile;
 	private BooleanQuestion question;
-	private Criteria criteria
+	private Criteria criteria;
 
 	@Before
 	public void create() {
